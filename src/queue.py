@@ -1,4 +1,4 @@
-__author__ = 'Viajy Sharma'
+__author__ = 'Vijay Sharma'
 
 import threading
 import time
